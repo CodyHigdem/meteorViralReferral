@@ -2,9 +2,9 @@ Package.describe({
   name: 'qtheninja:viralreferral',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'A viral referral program to help spreaad the word for early access.',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/qtheninja/meteorViralReferral',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
